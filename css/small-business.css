@@ -3,7 +3,6 @@
  * Copyright 2014 ForBetterWeb
  * Licensed under Apache 2.0 (https://github.com/IronSummitMedia/startbootstrap/blob/gh-pages/LICENSE)
  */
-@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
 
 body {
   font-family: Roboto, sans-serif;
@@ -439,6 +438,3 @@ body {
     padding: 6px;
     color: #000;
 }
-.youtube a:hover {background: #c4302b; color: #fff;}
-.vk a:hover {background: #5d84ae; color: #fff;}
-.telegram a:hover {background: #249bd7; color: #fff;}
