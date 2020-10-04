@@ -6579,6 +6579,9 @@ button.close {
     padding: 6px;
     color: #000;
 }
+body{
+  background-color: #ccc;
+}
 .container{
   text-align:center;
   position: fixed;
@@ -6634,36 +6637,29 @@ ul.submenu{
         i.fa::before{
           color:#fff;
         }
-        i.fa-facebook::after{
+        i.fa-vk::after{
           height:200%;
           width:200%;
           background-color: rgb(59,89,152);
           border-radius:0px;
           opacity:1;
         }
-        
-        i.fa-twitter::after{
-          height:200%;
-          width:200%;
-          background-color: rgb(29,202,255);
-          border-radius:0px;
-          opacity:1;
-        }
-        i.fa-google-plus::after{
+        i.fa-youtube::after{
           height:200%;
           width:200%;
           background-color: rgb(211,72,54);
           border-radius:0px;
           opacity:1;
         }
-        i.fa-instagram::after{
-          height:200%;
-          width:200%;
-          background-color: rgb(138,58,185);
-          border-radius:0px;
-          opacity:1;
+        i.fa-telegram::after{
+        height:200%;
+        width:200%;
+        background-color: rgb(59,89,152);
+        border-radius:0px;
+        opacity:1;
         }
       }
     }
   }
 }
+
