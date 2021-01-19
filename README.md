@@ -1,2 +1,2 @@
-# roflband
+# roflband.github.io
 Я пукнул
